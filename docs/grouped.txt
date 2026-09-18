@@ -1,0 +1,24 @@
+                         ╭────────────────────────────────────────────────────╮                     
+                         │ margin kernel routine cluster sample vector filte… │                     
+                         ╰────────────────────────────────────────────────────╯                     
+                                                    │                                               
+                                                    ▼                                               
+──────────────────╮                                                                                 
+budget horizon  … │               vector delta marg                                                 
+──────────────────╯                                                                                 
+                                                                                                    
+        alpha br         ─────▶ gamma ma          ─────▶ weight d         ──────▶ anchor s          
+                                                                                                    
+                                                                                                    
+                                                                                                    
+──╮   ╭╭────────────────╮╮                             ╭╭────────────────╮╮                         
+… │   ││ latent budget… │───────────────┬──────────────▶│ segm         … │────────────────┐         
+──╯   │╰────────────────╯│              │              │╰────────────────╯│               │         
+      │                  │              │              │                  │               │         
+      │  segment segmen… │              │              │  alpha beta mar… │               │         
+──╮   │         ▼        │              │              │         ▼        │               │         
+  │   │  budget stage b… │              │              │  anchor sample … │               │         
+  │   │         ▼        │              │              │         ▼        │               │         
+… │   ╰─ source branch …─╯              │              ╰─ alpha sample v…─╯               │         
+──╯             ▲                       │                                                 │         
+grouped.canvas  41 nodes  27 edges  zoom 0.35  (1004, 112)                                    ? help

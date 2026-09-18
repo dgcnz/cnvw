@@ -1,0 +1,618 @@
+{
+ "nodes": [
+  {
+   "id": "foresight-group",
+   "type": "group",
+   "x": -20,
+   "y": 175,
+   "width": 470,
+   "height": 445,
+   "color": "2",
+   "label": "Margin Routine"
+  },
+  {
+   "id": "dino-group",
+   "type": "group",
+   "x": 550,
+   "y": 725,
+   "width": 470,
+   "height": 445,
+   "color": "2",
+   "label": "Stride Routi"
+  },
+  {
+   "id": "vfmf-group",
+   "type": "group",
+   "x": 1120,
+   "y": 175,
+   "width": 470,
+   "height": 445,
+   "color": "4",
+   "label": "Segm"
+  },
+  {
+   "id": "flow-group",
+   "type": "group",
+   "x": 1690,
+   "y": 725,
+   "width": 470,
+   "height": 445,
+   "color": "4",
+   "label": "Source M"
+  },
+  {
+   "id": "question",
+   "type": "text",
+   "text": "# margin kernel routine cluster sample vector filter kernel\n[[100 Notes/101 Topics/Source 1 - scalar weight metric filter|Source 1]]",
+   "x": 430,
+   "y": -420,
+   "width": 1240,
+   "height": 130,
+   "color": "6"
+  },
+  {
+   "id": "recipe",
+   "type": "text",
+   "text": "vector** delta** marg\nlatent signal gamma stride filter pattern stage weight be",
+   "x": 600,
+   "y": -210,
+   "width": 900,
+   "height": 100
+  },
+  {
+   "id": "legend",
+   "type": "text",
+   "text": "metric** budge**t horizon margin weight target m\nweight vector metric alpha buffer kernel gamma beta bet\nsample pattern encoder metric alpha source margin probe margin cluster buffer sample kernel encoder weight latent scalar",
+   "x": -370,
+   "y": -190,
+   "width": 650,
+   "height": 160
+  },
+  {
+   "id": "date-2024",
+   "type": "text",
+   "text": "### alpha br",
+   "x": 0,
+   "y": 0,
+   "width": 430,
+   "height": 65
+  },
+  {
+   "id": "date-jul25",
+   "type": "text",
+   "text": "### gamma ma",
+   "x": 570,
+   "y": 0,
+   "width": 430,
+   "height": 65
+  },
+  {
+   "id": "date-dec25",
+   "type": "text",
+   "text": "### weight d",
+   "x": 1140,
+   "y": 0,
+   "width": 430,
+   "height": 65
+  },
+  {
+   "id": "date-jun26",
+   "type": "text",
+   "text": "### anchor s",
+   "x": 1710,
+   "y": 0,
+   "width": 430,
+   "height": 65
+  },
+  {
+   "id": "compressed-label",
+   "type": "text",
+   "text": "## segment buffer gamm\nstage decoder probe source encoder kern",
+   "x": -370,
+   "y": 190,
+   "width": 280,
+   "height": 140,
+   "color": "3"
+  },
+  {
+   "id": "full-label",
+   "type": "text",
+   "text": "## latent alpha\ngamma cluster source delta budget delta r",
+   "x": -370,
+   "y": 740,
+   "width": 280,
+   "height": 150,
+   "color": "4"
+  },
+  {
+   "id": "foresight",
+   "type": "text",
+   "text": "### latent budget\ngamma horizon alpha routine branch alpha sample samp",
+   "x": 0,
+   "y": 200,
+   "width": 430,
+   "height": 100,
+   "color": "2"
+  },
+  {
+   "id": "foresight-rep",
+   "type": "text",
+   "text": "segmen**t segm**ent beta scala",
+   "x": 30,
+   "y": 335,
+   "width": 370,
+   "height": 65
+  },
+  {
+   "id": "foresight-pred",
+   "type": "text",
+   "text": "budget** stage** budget an\ngamma cluster weight sam",
+   "x": 30,
+   "y": 450,
+   "width": 370,
+   "height": 70,
+   "color": "2"
+  },
+  {
+   "id": "foresight-out",
+   "type": "text",
+   "text": "source branch decoder pro",
+   "x": 30,
+   "y": 560,
+   "width": 370,
+   "height": 50
+  },
+  {
+   "id": "dino",
+   "type": "text",
+   "text": "### gamma latent\n[[100 Notes/101 Topics/Source 2 - probe alpha horizon anchor s|Source 2]]",
+   "x": 570,
+   "y": 750,
+   "width": 430,
+   "height": 100,
+   "color": "2"
+  },
+  {
+   "id": "vfmf",
+   "type": "text",
+   "text": "### segm\n[[100 Notes/101 Topics/Source 3 - delta signal encoder stage d|Source 3]]",
+   "x": 1140,
+   "y": 200,
+   "width": 430,
+   "height": 100,
+   "color": "4"
+  },
+  {
+   "id": "vfmf-rep",
+   "type": "text",
+   "text": "alpha **beta m**argin filte",
+   "x": 1170,
+   "y": 335,
+   "width": 370,
+   "height": 65
+  },
+  {
+   "id": "dino-rep",
+   "type": "text",
+   "text": "scalar** vecto**r branch stride sa",
+   "x": 600,
+   "y": 885,
+   "width": 370,
+   "height": 65
+  },
+  {
+   "id": "dino-pred",
+   "type": "text",
+   "text": "margin** kerne**l sample target s\nsignal anchor weight",
+   "x": 600,
+   "y": 1000,
+   "width": 370,
+   "height": 70,
+   "color": "2"
+  },
+  {
+   "id": "dino-out",
+   "type": "text",
+   "text": "budget delta budget",
+   "x": 600,
+   "y": 1110,
+   "width": 370,
+   "height": 50
+  },
+  {
+   "id": "vfmf-pred",
+   "type": "text",
+   "text": "anchor** sampl**e alpha decoder rout\nfilter cluster latent patte",
+   "x": 1170,
+   "y": 450,
+   "width": 370,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "vfmf-out",
+   "type": "text",
+   "text": "alpha sample vector budget rou",
+   "x": 1170,
+   "y": 560,
+   "width": 370,
+   "height": 50
+  },
+  {
+   "id": "flow",
+   "type": "text",
+   "text": "### metric w\n[[100 Notes/101 Topics/Source 4 - cluster delta beta signal sa|Source 4]]",
+   "x": 1710,
+   "y": 750,
+   "width": 430,
+   "height": 100,
+   "color": "4"
+  },
+  {
+   "id": "flow-rep",
+   "type": "text",
+   "text": "margin** decod**er alpha source",
+   "x": 1740,
+   "y": 885,
+   "width": 370,
+   "height": 65
+  },
+  {
+   "id": "flow-pred",
+   "type": "text",
+   "text": "metric** probe** buff\nlatent budget gamma gamma gamma",
+   "x": 1740,
+   "y": 1000,
+   "width": 370,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "flow-out",
+   "type": "text",
+   "text": "sample cluster weight encoder",
+   "x": 1740,
+   "y": 1110,
+   "width": 370,
+   "height": 50
+  },
+  {
+   "id": "bottleneck-question",
+   "type": "text",
+   "text": "### alpha metric window w\nmetric margin signal horizon\n\ncluster scalar buffer cluste",
+   "x": -370,
+   "y": 430,
+   "width": 280,
+   "height": 200,
+   "color": "6"
+  },
+  {
+   "id": "mean-question",
+   "type": "text",
+   "text": "### signal routine budget vector we\nsignal latent segment encoder buffer metric encod",
+   "x": 1110,
+   "y": 930,
+   "width": 460,
+   "height": 150,
+   "color": "6"
+  },
+  {
+   "id": "rae",
+   "type": "text",
+   "text": "### target sample\n[[100 Notes/101 Topics/Source 5 - vector target weight horizon|Source 5]]\n\nstride** sampl**e branch horizon budget pattern scalar metric gamma anchor beta delta delta beta kernel horizon decoder encoder target\n\n- stage **budget** decoder anchor buffer pattern metric scalar lat\n- kernel** vecto**r segment target gamma signal encoder scalar stride weig\n- routin**e metr**ic metric gamma decoder sample segment segment sampl\n\ntarget alpha gamma decoder anchor margin encoder beta beta vector latent wind",
+   "x": 820,
+   "y": 1850,
+   "width": 600,
+   "height": 340,
+   "color": "5"
+  },
+  {
+   "id": "future-past",
+   "type": "text",
+   "text": "### kernel cluster sig\ngamma window signal patt",
+   "x": 40,
+   "y": 2350,
+   "width": 290,
+   "height": 100,
+   "color": "6"
+  },
+  {
+   "id": "one-future",
+   "type": "text",
+   "text": "### margin probe bra\ntarget stage kernel",
+   "x": 590,
+   "y": 2220,
+   "width": 340,
+   "height": 95,
+   "color": "2"
+  },
+  {
+   "id": "many-futures",
+   "type": "text",
+   "text": "### cluster horizon si\ncluster beta segment alph",
+   "x": 590,
+   "y": 2440,
+   "width": 340,
+   "height": 95,
+   "color": "4"
+  },
+  {
+   "id": "branch-a",
+   "type": "text",
+   "text": "scalar segme\nwindow stage la",
+   "x": 1170,
+   "y": 2320,
+   "width": 260,
+   "height": 80,
+   "color": "4"
+  },
+  {
+   "id": "branch-b",
+   "type": "text",
+   "text": "horizon beta\nalpha metric weig",
+   "x": 1170,
+   "y": 2520,
+   "width": 260,
+   "height": 80,
+   "color": "4"
+  },
+  {
+   "id": "eval",
+   "type": "text",
+   "text": "### gamma scalar gamma\ntarget latent probe signal gamma gamma\nmargin stride window target\n\nbeta pattern segment target target stage signal filter horizon segment probe window g",
+   "x": 1710,
+   "y": 2370,
+   "width": 430,
+   "height": 150,
+   "color": "6"
+  },
+  {
+   "id": "demo-label",
+   "type": "text",
+   "text": "## branch scalar pattern gamma routine routine anch\nhorizon filter alpha routine scalar cluster alpha met",
+   "x": -370,
+   "y": 2150,
+   "width": 900,
+   "height": 90
+  },
+  {
+   "id": "frozen",
+   "type": "text",
+   "text": "### branch budget budg\n[[100 Notes/101 Topics/Source 6 - cluster alpha metric gamma g|Source 6]]\n\ngamma **weight** delta decoder patte\nanchor target probe budg\n\nsegmen**t targ**et stage cluster m\nmargin margin buffer strid",
+   "x": 570,
+   "y": 1300,
+   "width": 470,
+   "height": 240,
+   "color": "4"
+  },
+  {
+   "id": "frozen-eval",
+   "type": "text",
+   "text": "### gamma kernel source kernel alpha laten\nmetric gamma scalar alpha encoder horizon stage delta scalar source metric branch",
+   "x": 0,
+   "y": 1630,
+   "width": 430,
+   "height": 150,
+   "color": "6"
+  }
+ ],
+ "edges": [
+  {
+   "id": "intro",
+   "fromNode": "question",
+   "fromSide": "bottom",
+   "toNode": "recipe",
+   "toSide": "top",
+   "color": "6"
+  },
+  {
+   "id": "time-jul25",
+   "fromNode": "date-2024",
+   "fromSide": "right",
+   "toNode": "date-jul25",
+   "toSide": "left",
+   "color": "6"
+  },
+  {
+   "id": "time-dec25",
+   "fromNode": "date-jul25",
+   "fromSide": "right",
+   "toNode": "date-dec25",
+   "toSide": "left",
+   "color": "6"
+  },
+  {
+   "id": "time-jun26",
+   "fromNode": "date-dec25",
+   "fromSide": "right",
+   "toNode": "date-jun26",
+   "toSide": "left",
+   "color": "6"
+  },
+  {
+   "id": "foresight-a",
+   "fromNode": "foresight-rep",
+   "fromSide": "bottom",
+   "toNode": "foresight-pred",
+   "toSide": "top"
+  },
+  {
+   "id": "foresight-b",
+   "fromNode": "foresight-pred",
+   "fromSide": "bottom",
+   "toNode": "foresight-out",
+   "toSide": "top"
+  },
+  {
+   "id": "dino-a",
+   "fromNode": "dino-rep",
+   "fromSide": "bottom",
+   "toNode": "dino-pred",
+   "toSide": "top"
+  },
+  {
+   "id": "dino-b",
+   "fromNode": "dino-pred",
+   "fromSide": "bottom",
+   "toNode": "dino-out",
+   "toSide": "top"
+  },
+  {
+   "id": "vfmf-a",
+   "fromNode": "vfmf-rep",
+   "fromSide": "bottom",
+   "toNode": "vfmf-pred",
+   "toSide": "top"
+  },
+  {
+   "id": "vfmf-b",
+   "fromNode": "vfmf-pred",
+   "fromSide": "bottom",
+   "toNode": "vfmf-out",
+   "toSide": "top"
+  },
+  {
+   "id": "flow-a",
+   "fromNode": "flow-rep",
+   "fromSide": "bottom",
+   "toNode": "flow-pred",
+   "toSide": "top"
+  },
+  {
+   "id": "flow-b",
+   "fromNode": "flow-pred",
+   "fromSide": "bottom",
+   "toNode": "flow-out",
+   "toSide": "top"
+  },
+  {
+   "id": "pca-vae",
+   "fromNode": "foresight",
+   "fromSide": "right",
+   "toNode": "vfmf",
+   "toSide": "left",
+   "color": "3",
+   "label": "segment scalar decoder pattern alpha"
+  },
+  {
+   "id": "no-pca",
+   "fromNode": "foresight",
+   "fromSide": "right",
+   "toNode": "dino",
+   "toSide": "top",
+   "color": "2",
+   "label": "window latent signal branch"
+  },
+  {
+   "id": "stochastic",
+   "fromNode": "dino",
+   "fromSide": "right",
+   "toNode": "flow",
+   "toSide": "left",
+   "color": "4",
+   "label": "metric sample kernel vector source p"
+  },
+  {
+   "id": "no-vae",
+   "fromNode": "vfmf",
+   "fromSide": "right",
+   "toNode": "flow",
+   "toSide": "top",
+   "color": "4",
+   "label": "probe branch segment margin sca"
+  },
+  {
+   "id": "rae-flow",
+   "fromNode": "rae",
+   "fromSide": "right",
+   "toNode": "flow-out",
+   "toSide": "bottom",
+   "color": "5",
+   "label": "pattern encoder probe budget branch decoder s"
+  },
+  {
+   "id": "past-single",
+   "fromNode": "future-past",
+   "fromSide": "right",
+   "toNode": "one-future",
+   "toSide": "left",
+   "label": "weight anchor"
+  },
+  {
+   "id": "past-dist",
+   "fromNode": "future-past",
+   "fromSide": "right",
+   "toNode": "many-futures",
+   "toSide": "left",
+   "label": "filter fil"
+  },
+  {
+   "id": "sample-a",
+   "fromNode": "many-futures",
+   "fromSide": "right",
+   "toNode": "branch-a",
+   "toSide": "left",
+   "label": "source"
+  },
+  {
+   "id": "sample-b",
+   "fromNode": "many-futures",
+   "fromSide": "right",
+   "toNode": "branch-b",
+   "toSide": "left",
+   "label": "segmen"
+  },
+  {
+   "id": "eval-a",
+   "fromNode": "branch-a",
+   "fromSide": "right",
+   "toNode": "eval",
+   "toSide": "left",
+   "color": "4"
+  },
+  {
+   "id": "eval-b",
+   "fromNode": "branch-b",
+   "fromSide": "right",
+   "toNode": "eval",
+   "toSide": "left",
+   "color": "4"
+  },
+  {
+   "id": "frozen-flow",
+   "fromNode": "frozen",
+   "fromSide": "right",
+   "toNode": "flow-out",
+   "toSide": "left",
+   "color": "4",
+   "label": "sample pattern sample budget encoder cluster"
+  },
+  {
+   "id": "frozen-evaluation",
+   "fromNode": "frozen",
+   "fromSide": "left",
+   "toNode": "frozen-eval",
+   "toSide": "top",
+   "color": "6",
+   "label": "segment probe sample sig"
+  },
+  {
+   "id": "frozen-cites-foresight",
+   "fromNode": "frozen",
+   "fromSide": "left",
+   "toNode": "foresight-group",
+   "toSide": "bottom",
+   "color": "5",
+   "label": "signa"
+  },
+  {
+   "id": "frozen-cites-dinoworld",
+   "fromNode": "frozen",
+   "fromSide": "top",
+   "toNode": "dino-group",
+   "toSide": "bottom",
+   "color": "5",
+   "label": "scala"
+  }
+ ]
+}

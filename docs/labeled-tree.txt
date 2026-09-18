@@ -1,0 +1,24 @@
+                                          ╭──────────────╮              ╭──────────────╮            
+                                          │ horizon      │              │ weight kerne │            
+                                          │ segment      │              │ l signal     │            
+                                          │ signal     … │              │ decoder    … │            
+                                          ╰──────────────╯              ╰──────────────╯            
+                                                  ▼ stride buffer sa                                
+                        ╭──────────────────────────────────────────────────╮                        
+                        │ stride kernel anchor source branch pattern     … │                        
+                        ╰──────────────────────────────────────────────────╯                        
+                                                  │                                                 
+                                                  │                                                 
+                                                  │                                                 
+┬─── window target scala  margin beta latent ─────┼─────────── routine probe ─────────────┬─────────
+│                   │                             │                   │                   │         
+│ latent beta ancho │                             │                   │ segment buffer s  │         
+│                   │                             │                   │                   │         
+▼                   ▼                             ▼                   ▼                   ▼         
+───────╮    ╭──────────────╮              ╭──────────────╮    ╭──────────────╮    ╭──────────────╮  
+       │    │ buffer       │              │ sample     … │    │ signal alpha │    │ latent       │  
+       │    │ segment      │              ╰──────────────╯    │ source     … │    │ metric       │  
+       │    │ alpha m      │                      │           ╰──────────────╯    │ branch     … │  
+     … │──┐ │            … │  ┌─ scalar sample ───┤ pattern segme     ┌───────────╰──────────────╯──
+───────╯  │ ╰──────────────╯  │                   │ stride kernel gam │     probe beta ve │         
+labeled-tree.canvas  32 nodes  37 edges  zoom 0.26  (1180, 719)                               ? help

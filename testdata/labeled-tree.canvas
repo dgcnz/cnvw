@@ -1,0 +1,729 @@
+{
+ "nodes": [
+  {
+   "type": "text",
+   "id": "proteus-baseline",
+   "x": 930,
+   "y": 0,
+   "width": 500,
+   "height": 340,
+   "text": "### horizon segment signal encoder alpha me\n\n[[100 Notes/101 Topics/Source 1 - margin vector stage delta ta|Source 1]]\n\nMatch projections of $J_x^\\top J_x$ between weight pattern windo\nfilter pattern gamma encoder decoder horizon beta probe metric vector segment stride branch target segment anchor stage pattern beta cluster pa\nMatch projections of $J_x^\\top J_x$ between alpha cluster decode\n\nlatent anchor sample vector routine delta cluster kernel horizon target source horizon horizon\n\ncluster beta stage probe metric probe decod\n\nvector** horiz**on budget latent pattern source routine horizon hor",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "badge-key",
+   "x": 1860,
+   "y": 0,
+   "width": 500,
+   "height": 300,
+   "text": "weight** kerne**l signal decoder buffer deco\n\n[[100 Notes/101 Topics/Source 2 - branch stage vector anchor b|Source 2]]\n\n[[100 Notes/101 Topics/Source 3 - probe stride pattern beta an|Source 3]]\n\nsegment decoder kernel latent kernel patte\nanchor budget branch segment segment vector lat\n\ncluster window budget cluster alpha latent cluster metric stri",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "question",
+   "x": 380,
+   "y": 400,
+   "width": 1600,
+   "height": 180,
+   "text": "## stride kernel anchor source branch pattern kernel anchor gamma\n\ngamma margin window delta anchor source budget beta segment buffer horizon sample ke\n\nencoder budget alpha delta margin pattern sample vector alpha stride budget window vector probe segment window w\n\n[[100 Notes/101 Topics/Source 4 - sample margin beta gamma str|Source 4]]",
+   "color": "6",
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "snapvit",
+   "x": 310,
+   "y": 1480,
+   "width": 500,
+   "height": 300,
+   "text": "### signal filter source weight target sample weight st\n\n[[100 Notes/101 Topics/Source 5 - delta beta sample anchor del|Source 5]]\n\nbuffer signal segment cluster margin beta routine delta scalar stage kernel sign\n\ncluster latent branch target routine scalar scalar target gamma weigh\n\nstage window horizon filter delta buffer filter\n\nmetric decoder horizon delta alpha vector kernel window weight gamma probe del",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "derivatives",
+   "x": 930,
+   "y": 1480,
+   "width": 500,
+   "height": 340,
+   "text": "### vector weight stage metric anchor stage\n\n[[100 Notes/101 Topics/Source 6 - decoder vector beta gamma ho|Source 6]]\n\nsample window branch delta sample stride decoder scalar\n\nroutin**e gamm**a vector alpha decoder source delta cluster scalar metric sample budget window delta target segment segment kernel buffer vector beta e\n\nbudget buffer routine metric beta sample sampl",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "reinforced",
+   "x": 2790,
+   "y": 1480,
+   "width": 500,
+   "height": 300,
+   "text": "### source scalar weight budget beta\n\n[[100 Notes/101 Topics/Source 7 - source stage stage anchor ma|Source 7]]\n\ndecoder encoder pattern encoder delta decoder segment gamma segment branch cl\n\nvector** vecto**r pattern horizon weight probe beta alpha scalar vector metric decoder beta ro",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "reuse",
+   "x": 1550,
+   "y": 1880,
+   "width": 3600,
+   "height": 140,
+   "text": "### scalar stage alpha decoder sou\n\nsource alpha sample weight filter margin routine branch encoder margin stride anchor signal window probe decoder routine buffer stag",
+   "color": "6",
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "learnability",
+   "x": 930,
+   "y": 2660,
+   "width": 500,
+   "height": 170,
+   "text": "### alpha stage budget metric weight delta vec\n\nroutine filter horizon pattern metric stride weight window decoder routine routine kernel d",
+   "color": "6",
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "derivative-branch",
+   "x": 930,
+   "y": 1080,
+   "width": 500,
+   "height": 170,
+   "text": "### sample decoder decoder kernel\n\nvector window buffer filter kernel scalar stage scalar buffer sign",
+   "color": "6",
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "codebook",
+   "x": 2170,
+   "y": 1480,
+   "width": 500,
+   "height": 240,
+   "text": "### stride sample scalar budget probe rout\n\n[[100 Notes/101 Topics/Source 8 - pattern source gamma budget|Source 8]]\n\nbranch weight kernel sample stage vector gamma beta segment budget probe encoder",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "deepinversion",
+   "x": 4030,
+   "y": 1480,
+   "width": 500,
+   "height": 300,
+   "text": "### beta kernel kernel routine signal sample stride windo\n\n[[100 Notes/101 Topics/Source 9 - routine horizon metric alpha|Source 9]]\n\nkernel probe source source alpha delta horizon kernel branch beta filter weight buffer gamma delta cluster gamma segment vector decoder kernel latent horizon probe segment s\n\nanchor cluster metric kernel target stride probe probe branch horizon filter target bet\n\npattern encoder filter kernel weight horiz",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "offline-branch",
+   "x": 2790,
+   "y": 1080,
+   "width": 500,
+   "height": 190,
+   "text": "### probe branch latent alpha en\n\nencoder beta delta segment probe latent pattern alpha segment probe delta delta segment ma\n\nbuffer probe segment vector vector scalar latent",
+   "color": "6",
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "siglino",
+   "x": 3410,
+   "y": 1480,
+   "width": 500,
+   "height": 240,
+   "text": "### anchor budget window signal buffer budg\n\n[[100 Notes/101 Topics/Source 10 - latent encoder stride encode|Source 10]]\n\npattern metric horizon segment window pattern beta margin horizon decoder kernel stride sample gamm\n\nsignal buffer encoder source latent stride signal margin beta decoder encoder buffer si",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "phi-s",
+   "x": 1550,
+   "y": 1480,
+   "width": 500,
+   "height": 300,
+   "text": "### delta stride scalar probe filter v\n\n[[100 Notes/101 Topics/Source 11 - kernel budget gamma branch p|Source 11]]\n\nsample budget signal segment branch cluster pattern margin anchor weight stride beta budget branch margin filter routine\n\nbranch margin window sample latent stage alpha segment gamma\n\ndelta signal buffer margin source source gamma sample cluster scalar filter weight decoder weig",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "salt",
+   "x": 1550,
+   "y": 1080,
+   "width": 500,
+   "height": 240,
+   "text": "### signal alpha source segment vector c\n\n[[100 Notes/101 Topics/Source 12 - filter latent stride encoder|Source 12]]\n\ncluster stage sample segment filter probe target budget margin stride stage vector source budget branch segment margin st\n\nfilter buffer anchor decoder source routine sample filter encoder encoder weight kernel decoder branch",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "layer-branch",
+   "x": -1250,
+   "y": 1080,
+   "width": 500,
+   "height": 180,
+   "text": "### latent cluster beta met\n\nsegment encoder metric stride encoder window margin filter filter window delta cluster target encoder wi",
+   "color": "6",
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "manifold-layers",
+   "x": -1560,
+   "y": 1480,
+   "width": 500,
+   "height": 300,
+   "text": "### anchor window signa\n\n[[100 Notes/101 Topics/Source 13 - horizon target signal beta s|Source 13]]\n\nmetric kernel latent weight source delta signal filter branch kernel stage segment encoder budget signal delta window kernel weight t",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "vitkd-layers",
+   "x": -940,
+   "y": 1480,
+   "width": 500,
+   "height": 300,
+   "text": "### decoder alpha alpha vector\n\n[[100 Notes/101 Topics/Source 14 - margin filter probe vector s|Source 14]]\n\nhorizon vector kernel metric vector stage delta decoder window delta scalar vector vector stage gamma stage kernel branch decoder branch margi\n\nstride margin probe stage filter cluster probe encoder routine vector t",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "leap-layers",
+   "x": -320,
+   "y": 1480,
+   "width": 500,
+   "height": 300,
+   "text": "### routine weight beta metric delta window g\n\n[[100 Notes/101 Topics/Source 15 - alpha buffer kernel stride h|Source 15]]\n\nsegment anchor weight horizon probe horizon anchor source target delta encoder routine filter anchor decode\n\nbeta c**luster** probe metric stride decoder signal target pattern probe segment budget kernel delta pattern alpha stage win\n\n[[100 Notes/101 Topics/Source 16 - stride gamma vector margin h|Source 16]]",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "orthogonal",
+   "x": 0,
+   "y": 1080,
+   "width": 500,
+   "height": 360,
+   "text": "### buffer segment alpha m\n\n[[100 Notes/101 Topics/Source 17 - branch budget anchor gamma w|Source 17]]\n\nmetric alpha routine scalar budget sample latent delta metric stride filter pattern vector segment latent weight delta bet\n\n[[100 Notes/101 Topics/Source 18 - margin buffer sample probe b|Source 18]]\n\nbuffer vector margin encoder vector gamma alpha delta sample decoder anchor source weight filter scalar weight de",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "weights",
+   "x": 2170,
+   "y": 1080,
+   "width": 500,
+   "height": 300,
+   "text": "### latent metric branch window target decoder window late\n\n[[100 Notes/101 Topics/Source 19 - gamma stride scalar encoder|Source 19]]\n\nsignal sample anchor budget signal gamma filter pattern source\n\ndecoder source pattern window target segment alpha filter p\n\nsegment filter margin kernel metric pattern kernel scalar sample alpha sample signal targ",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "vit-linearizer",
+   "x": -2180,
+   "y": 1480,
+   "width": 500,
+   "height": 340,
+   "text": "### latent beta routine alpha buf\n\n[[100 Notes/101 Topics/Source 20 - scalar delta stride window e|Source 20]]\n\ndelta weight encoder horizon window horizon anchor vector signal decoder branch segment encoder filter pattern metric scalar branch ancho\n\ndelta source routine window signal decoder signal delta source latent encoder segment target br\n\nwindow** windo**w stage decoder metric gamma br",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "cospress-targets",
+   "x": -620,
+   "y": 1080,
+   "width": 500,
+   "height": 340,
+   "text": "### latent branch budget stride segment\n\n[[100 Notes/101 Topics/Source 21 - encoder sample weight sample|Source 21]]\n\nsignal signal probe decoder signal horizon gamma segment branch encoder s\n\nbeta c**luster** scalar buffer cluster latent delta delta anchor gamma source\npatter**n alph**a target stag\nalpha **branch** weight filt\n\nmetric scalar source margin anchor kernel branch signa\n[[100 Notes/101 Topics/Source 22 - source kernel source encoder|Source 22]]",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "task-specialization",
+   "x": 5580,
+   "y": 1080,
+   "width": 500,
+   "height": 180,
+   "text": "### vector probe decoder\n\nbeta probe vector gamma beta source stride margin encoder filter stride ker\n\nkernel window encoder signal decoder metric pro",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "task-extra-images",
+   "x": 5270,
+   "y": 1480,
+   "width": 500,
+   "height": 320,
+   "text": "### branch stage beta kernel\n\n[[100 Notes/101 Topics/Source 23 - gamma cluster branch alpha a|Source 23]]\n\nlatent** horiz**on filter kernel budget budget delta window anchor kernel buffer kernel de\n\nwindow** delta** horizon scalar metric routine window bu\n\nsample encoder metric source signal delta latent beta metric target routine buffer rou",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "task-only-data",
+   "x": 5890,
+   "y": 1480,
+   "width": 500,
+   "height": 350,
+   "text": "### budget probe buffer decoder\n\n[[100 Notes/101 Topics/Source 24 - buffer window target delta h|Source 24]]\n\ndecode**r prob**e source pattern window decoder buffer gamma decoder target window horizon probe filter latent anchor stride target vector s\n\nfilter** targe**t delta scalar vector encoder source vector encoder stage a\n\n[[100 Notes/101 Topics/Source 25 - weight gamma buffer window m|Source 25]]",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "task-100-closed",
+   "x": 5270,
+   "y": 1880,
+   "width": 1120,
+   "height": 170,
+   "text": "### buffer weight scalar margin kernel source margin\n\ngamma filter window horizon scalar delta scalar latent branch decoder segment signal filter pattern stri\n\nmetric branch margin stride latent margin metric routine met",
+   "color": "6",
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "task-decision-geometry",
+   "x": 5270,
+   "y": 2180,
+   "width": 500,
+   "height": 350,
+   "text": "### horizon budget budget anch\n\nencode**r sour**ce scalar window scalar pattern delta target scalar horizon latent stage pattern cluster delta window horizon alpha target br\n\nwindow source source target routine source pattern beta scalar branch horizon decoder filter budget alpha routine encoder budget win\n\nmargin sample beta budget vector sample window sample beta kernel decoder beta window gamma alpha gamma source target anchor metric so",
+   "color": "6",
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "input-2ndmatch",
+   "x": 620,
+   "y": 2120,
+   "width": 500,
+   "height": 400,
+   "text": "### target kernel branch signa\n\n[[100 Notes/101 Topics/Source 26 - cluster filter filter signal|Source 26]]\n\nMatch projections of $J_x^\\top J_x$ between kernel gamma cluster\n\nkernel delta routine stri\nlatent** beta **routine budget probe sample horizon gamma target beta routine gamma stage buffer filte\n\nsample stride kernel vector stride kernel target stage encoder delta cluster vector latent latent vector decoder margin probe filter",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "input-gad",
+   "x": 1240,
+   "y": 2120,
+   "width": 500,
+   "height": 400,
+   "text": "### beta stride anchor window budget encode\n\nlatent window metric budget branch decoder encoder latent segment enc\n\nbeta latent latent branch gamma weight signal weight segment segment cluster branch pattern signal budget window\n\nkernel** weigh**t target latent kernel kernel gamma metric scalar signal weight horizon filter st\n\nmargin segment sample latent beta vector kernel pattern target alpha delta cluster kernel segment metric target stride cluster encoder decoder gamma source alpha bud",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "surrogate-inputs",
+   "x": 4650,
+   "y": 1480,
+   "width": 500,
+   "height": 350,
+   "text": "### latent horizon pattern decoder anchor delt\n\nvector buffer source cluster decoder margin latent stride clu\n\nbuffer gamma probe target signal filter pattern decoder weight beta budget latent budget beta delta pattern cluster kernel filter pattern scalar target sta\n\ngamma target filter p\nsource** weigh**t weight latent stage kernel vector weight branch signal weight sample source metric st\n\nweight segment source metric sample segment scalar pattern beta scalar anchor delta cluster anchor",
+   "color": null,
+   "shape": "rectangle"
+  },
+  {
+   "type": "text",
+   "id": "task-frozen-head",
+   "x": 5890,
+   "y": 2180,
+   "width": 500,
+   "height": 460,
+   "text": "### routine metric stage anchor pattern\n\nvector probe kernel delta encoder pattern scalar segment stage budget latent stride margin encoder weight latent strid\n\nkernel** filte**r target pattern encoder horizon anchor vector target scalar source delta stage stage anchor budget encoder ro\n\nscalar** scala**r filter filter metric alpha segment metric decoder anchor cluster buffer stride delta encoder gamma weight stage encoder probe kern\n\n[[100 Notes/101 Topics/Source 27 - anchor buffer budget signal|Source 27]]\n\n[[100 Notes/101 Topics/Source 28 - routine metric anchor buffer|Source 28]]",
+   "color": null,
+   "shape": "rectangle"
+  }
+ ],
+ "edges": [
+  {
+   "id": "proteus-to-problem",
+   "fromNode": "proteus-baseline",
+   "fromSide": "bottom",
+   "toNode": "question",
+   "toSide": "top",
+   "label": "stride buffer sa",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "teacher-weight-reuse",
+   "fromNode": "question",
+   "fromSide": "bottom",
+   "toNode": "weights",
+   "toSide": "top",
+   "label": "routine probe",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "question-updates",
+   "fromNode": "question",
+   "fromSide": "bottom",
+   "toNode": "orthogonal",
+   "toSide": "top",
+   "label": "margin beta latent",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "question-artifacts",
+   "fromNode": "question",
+   "fromSide": "bottom",
+   "toNode": "offline-branch",
+   "toSide": "top",
+   "label": "stage kernel bra",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "question-derivatives",
+   "fromNode": "question",
+   "fromSide": "bottom",
+   "toNode": "derivative-branch",
+   "toSide": "top",
+   "label": "pattern encoder",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "derivative-inputs",
+   "fromNode": "derivative-branch",
+   "fromSide": "bottom",
+   "toNode": "derivatives",
+   "toSide": "top",
+   "label": "pattern segme",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "derivative-weights",
+   "fromNode": "derivative-branch",
+   "fromSide": "bottom",
+   "toNode": "snapvit",
+   "toSide": "top",
+   "label": "scalar sample",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "b93f7c8d721dabe6",
+   "fromNode": "question",
+   "fromSide": "bottom",
+   "toNode": "salt",
+   "toSide": "top",
+   "label": "segment buffer s",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "offline-codebook",
+   "fromNode": "offline-branch",
+   "fromSide": "bottom",
+   "toNode": "codebook",
+   "toSide": "top",
+   "label": "probe beta ve",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "codebook-reuse",
+   "fromNode": "codebook",
+   "fromSide": "bottom",
+   "toNode": "reuse",
+   "toSide": "top",
+   "label": null,
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "offline-reinforced",
+   "fromNode": "offline-branch",
+   "fromSide": "bottom",
+   "toNode": "reinforced",
+   "toSide": "top",
+   "label": "weight target f",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "reinforced-reuse",
+   "fromNode": "reinforced",
+   "fromSide": "bottom",
+   "toNode": "reuse",
+   "toSide": "top",
+   "label": null,
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "offline-siglino",
+   "fromNode": "offline-branch",
+   "fromSide": "bottom",
+   "toNode": "siglino",
+   "toSide": "top",
+   "label": "vector beta enc",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "siglino-reuse",
+   "fromNode": "siglino",
+   "fromSide": "bottom",
+   "toNode": "reuse",
+   "toSide": "top",
+   "label": null,
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "offline-deepinversion",
+   "fromNode": "offline-branch",
+   "fromSide": "bottom",
+   "toNode": "deepinversion",
+   "toSide": "top",
+   "label": "budget kernel wei",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "deepinversion-reuse",
+   "fromNode": "deepinversion",
+   "fromSide": "bottom",
+   "toNode": "reuse",
+   "toSide": "top",
+   "label": null,
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "offline-phi-s",
+   "fromNode": "offline-branch",
+   "fromSide": "bottom",
+   "toNode": "phi-s",
+   "toSide": "top",
+   "label": "stride kernel gam",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "phi-s-reuse",
+   "fromNode": "phi-s",
+   "fromSide": "bottom",
+   "toNode": "reuse",
+   "toSide": "top",
+   "label": null,
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "layer-manifold-layers",
+   "fromNode": "layer-branch",
+   "fromSide": "bottom",
+   "toNode": "manifold-layers",
+   "toSide": "top",
+   "label": "kernel segmen",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "layer-vitkd-layers",
+   "fromNode": "layer-branch",
+   "fromSide": "bottom",
+   "toNode": "vitkd-layers",
+   "toSide": "top",
+   "label": "gamma budget decoder",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "layer-leap-layers",
+   "fromNode": "layer-branch",
+   "fromSide": "bottom",
+   "toNode": "leap-layers",
+   "toSide": "top",
+   "label": "alpha routine ancho",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "question-layers",
+   "fromNode": "question",
+   "fromSide": "bottom",
+   "toNode": "layer-branch",
+   "toSide": "top",
+   "label": "window target scala",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "layers-linearizer",
+   "fromNode": "layer-branch",
+   "fromSide": "bottom",
+   "toNode": "vit-linearizer",
+   "toSide": "top",
+   "label": "window cluster budge",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "question-cospress",
+   "fromNode": "question",
+   "fromSide": "bottom",
+   "toNode": "cospress-targets",
+   "toSide": "top",
+   "label": "latent beta ancho",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "question-specialization",
+   "fromNode": "question",
+   "fromSide": "bottom",
+   "toNode": "task-specialization",
+   "toSide": "top",
+   "label": "routine ker",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "specialization-extra",
+   "fromNode": "task-specialization",
+   "fromSide": "bottom",
+   "toNode": "task-extra-images",
+   "toSide": "top",
+   "label": "stage routin",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "specialization-task-only",
+   "fromNode": "task-specialization",
+   "fromSide": "bottom",
+   "toNode": "task-only-data",
+   "toSide": "top",
+   "label": "vector buffer",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "extra-to-100",
+   "fromNode": "task-extra-images",
+   "fromSide": "bottom",
+   "toNode": "task-100-closed",
+   "toSide": "top",
+   "label": "weight ve",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "task-only-to-100",
+   "fromNode": "task-only-data",
+   "fromSide": "bottom",
+   "toNode": "task-100-closed",
+   "toSide": "top",
+   "label": "horizon ker",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "100-to-geometry",
+   "fromNode": "task-100-closed",
+   "fromSide": "bottom",
+   "toNode": "task-decision-geometry",
+   "toSide": "top",
+   "label": "decoder source sour",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "geometry-synthesis",
+   "fromNode": "task-decision-geometry",
+   "fromSide": "left",
+   "toNode": "deepinversion",
+   "toSide": "right",
+   "label": "pattern kernel ker",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "input-to-2ndmatch",
+   "fromNode": "derivatives",
+   "fromSide": "bottom",
+   "toNode": "input-2ndmatch",
+   "toSide": "top",
+   "label": "probe weight",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "input-to-gad",
+   "fromNode": "derivatives",
+   "fromSide": "bottom",
+   "toNode": "input-gad",
+   "toSide": "top",
+   "label": "window weight",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "2ndmatch-learnability",
+   "fromNode": "input-2ndmatch",
+   "fromSide": "bottom",
+   "toNode": "learnability",
+   "toSide": "top",
+   "label": "signal branch",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "gad-learnability",
+   "fromNode": "input-gad",
+   "fromSide": "bottom",
+   "toNode": "learnability",
+   "toSide": "top",
+   "label": "weight pattern",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "offline-surrogate-inputs",
+   "fromNode": "offline-branch",
+   "fromSide": "bottom",
+   "toNode": "surrogate-inputs",
+   "toSide": "top",
+   "label": "margin alpha",
+   "color": null,
+   "style": "solid"
+  },
+  {
+   "id": "100-to-frozen-head",
+   "fromNode": "task-100-closed",
+   "fromSide": "bottom",
+   "toNode": "task-frozen-head",
+   "toSide": "top",
+   "label": "delta margin stag",
+   "color": null,
+   "style": "solid"
+  }
+ ],
+ "orientation": "topDown"
+}

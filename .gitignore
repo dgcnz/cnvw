@@ -1,0 +1,5 @@
+# Built binary.
+/cnvw
+
+# Generated stress fixture; testdata/gen_large.py recreates it.
+/testdata/large.canvas

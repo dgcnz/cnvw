@@ -1,0 +1,156 @@
+{
+  "nodes": [
+    {
+      "id": "g1",
+      "type": "group",
+      "x": -60,
+      "y": -80,
+      "width": 700,
+      "height": 380,
+      "label": "Ingest pipeline",
+      "color": "5"
+    },
+    {
+      "id": "n1",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 260,
+      "height": 120,
+      "color": "4",
+      "text": "## Ingest\n\nReads raw events from **S3** and writes them to `staging`.\n\n- batched hourly\n- retries 3x"
+    },
+    {
+      "id": "n2",
+      "type": "text",
+      "x": 360,
+      "y": 0,
+      "width": 260,
+      "height": 120,
+      "color": "3",
+      "text": "## Normalize\n\nApplies the [[schema-registry]] mapping.\n\n1. parse\n2. coerce types\n3. drop nulls"
+    },
+    {
+      "id": "n3",
+      "type": "text",
+      "x": 180,
+      "y": 180,
+      "width": 260,
+      "height": 100,
+      "color": "1",
+      "text": "### Dead letter queue\n\n> Anything that fails twice lands here.\n\nSee [runbook](https://example.com/runbook)."
+    },
+    {
+      "id": "n4",
+      "type": "file",
+      "x": 760,
+      "y": 0,
+      "width": 300,
+      "height": 90,
+      "color": "6",
+      "file": "notes/warehouse.md",
+      "subpath": "#partitioning"
+    },
+    {
+      "id": "n5",
+      "type": "link",
+      "x": 760,
+      "y": 160,
+      "width": 300,
+      "height": 80,
+      "url": "https://jsoncanvas.org/spec/1.0/"
+    },
+    {
+      "id": "n6",
+      "type": "text",
+      "x": 760,
+      "y": 300,
+      "width": 300,
+      "height": 200,
+      "color": "#8ab4f8",
+      "text": "# Open questions\n\n- [ ] backfill window?\n- [x] retention policy\n- [ ] who owns the *dead letter* queue\n\n---\n\n```sql\nSELECT count(*) FROM staging\n```"
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "x": 700,
+      "y": -60,
+      "width": 420,
+      "height": 620,
+      "label": "Downstream"
+    },
+    {
+      "id": "n7",
+      "type": "text",
+      "x": 0,
+      "y": 420,
+      "width": 200,
+      "height": 80,
+      "text": "Plain node, no color, no markdown at all."
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n1",
+      "fromSide": "right",
+      "toNode": "n2",
+      "toSide": "left",
+      "label": "events"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n1",
+      "fromSide": "bottom",
+      "toNode": "n3",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n2",
+      "fromSide": "bottom",
+      "toNode": "n3",
+      "toSide": "right",
+      "color": "1",
+      "label": "failures"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n2",
+      "fromSide": "right",
+      "toNode": "n4",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n4",
+      "fromSide": "bottom",
+      "toNode": "n5",
+      "toSide": "top"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n5",
+      "fromSide": "bottom",
+      "toNode": "n6",
+      "toSide": "top",
+      "toEnd": "none"
+    },
+    {
+      "id": "e7",
+      "fromNode": "n3",
+      "fromSide": "left",
+      "toNode": "n7",
+      "toSide": "left",
+      "fromEnd": "arrow",
+      "label": "replay"
+    },
+    {
+      "id": "e8",
+      "fromNode": "n7",
+      "toNode": "n6"
+    }
+  ]
+}
