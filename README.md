@@ -5,6 +5,29 @@ A read-only terminal viewer for Obsidian / [JSON Canvas](https://jsoncanvas.org/
 It behaves more like a two-dimensional `less` than a canvas editor: it preserves
 the spatial layout, lets you pan, zoom and search, and never writes to the file.
 
+## What it looks like
+
+```
+          │                                         │   ╭─ Downstream ───────────╮
+          │  ╭──────────────╮       ╭──────────────╮│   │   ╭─────────────────╮  │
+          │  │ Ingest       │       │ Normalize    ││  ┌───▶│ ▤ notes/wareho… │  │
+          │  │            … │──────▶│            … │───┘│   ╰─────────────────╯  │
+          │  ╰──────────────╯       ╰──────────────╯│   │            │           │
+          │          │                      │       │   │            ▼           │
+          │          │                      │ failures  │   ╭─────────────────╮  │
+          │          │  ╭──────────────╮    │       │   │   │ ↗ https://jsonc │  │
+          │┌─ replay ┴─▶│ Dead letter… │◀───┘       │   │   ╰─────────────────╯  │
+          ││            ╰──────────────╯            │   │            │           │
+          ╰│────────────────────────────────────────╯   │            │           │
+           │                                            │   ╭─────────────────╮  │
+```
+
+Rendered by `cnvw --dump`, which is also how the layout is checked in tests.
+Full frames for each fixture: [sample](docs/sample.txt) (every node type and
+edge side), [grouped](docs/grouped.txt) (nested groups, mixed routing),
+[labeled-tree](docs/labeled-tree.txt) (37 edges, 32 of them labelled and
+running bottom to top).
+
 ## Install
 
 ```sh
