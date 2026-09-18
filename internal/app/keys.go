@@ -46,24 +46,25 @@ func (m Model) canvasKey(msg tea.KeyPressMsg) (tea.Model, tea.Cmd) {
 	case "ctrl+c", "q":
 		return m, tea.Quit
 
-	case "h", "left":
+	case "left":
 		m.cam = m.cam.PanCells(-stepX, 0, vp)
-	case "l", "right":
+	case "right":
 		m.cam = m.cam.PanCells(stepX, 0, vp)
-	case "k", "up":
+	case "up":
 		m.cam = m.cam.PanCells(0, -stepY, vp)
-	case "j", "down":
+	case "down":
 		m.cam = m.cam.PanCells(0, stepY, vp)
 
-	// Shift-direction jumps to the nearest node that way. Terminals disagree
-	// on how they report it, so accept both spellings.
-	case "H", "shift+left":
+	// Shift-direction jumps to the nearest node that way. The letter forms
+	// stay as a fallback: not every terminal reports a shifted arrow, and
+	// without them the jump would simply be unreachable there.
+	case "shift+left", "H":
 		m = m.jump(geom.DirLeft)
-	case "L", "shift+right":
+	case "shift+right", "L":
 		m = m.jump(geom.DirRight)
-	case "K", "shift+up":
+	case "shift+up", "K":
 		m = m.jump(geom.DirUp)
-	case "J", "shift+down":
+	case "shift+down", "J":
 		m = m.jump(geom.DirDown)
 
 	case "tab":
@@ -123,17 +124,17 @@ func (m Model) focusKey(msg tea.KeyPressMsg) (tea.Model, tea.Cmd) {
 	case "esc", "q", "enter":
 		m.mode = modeCanvas
 		m.focus = nil
-	case "j", "down":
+	case "down":
 		m.focus.scroll(1, height)
-	case "k", "up":
+	case "up":
 		m.focus.scroll(-1, height)
 	case "ctrl+d":
 		m.focus.scroll(height/2, height)
 	case "ctrl+u":
 		m.focus.scroll(-height/2, height)
-	case " ", "pgdown", "ctrl+f":
+	case " ", "pgdown":
 		m.focus.scroll(height, height)
-	case "pgup", "ctrl+b":
+	case "pgup":
 		m.focus.scroll(-height, height)
 	case "g":
 		m.focus.off = 0
@@ -254,8 +255,8 @@ func (m Model) jump(dir geom.Dir) Model {
 
 // helpKeys is the key reference, shown in the help overlay.
 var helpKeys = [][2]string{
-	{"h j k l / arrows", "pan"},
-	{"H J K L", "jump to the nearest node that way"},
+	{"arrows", "pan"},
+	{"shift+arrows", "jump to the nearest node that way"},
 	{"tab / shift+tab", "cycle nodes in reading order"},
 	{"+ / -", "zoom in / out"},
 	{"f", "fit the whole canvas"},

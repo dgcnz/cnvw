@@ -56,6 +56,14 @@ func keyCode(name string) rune {
 		return tea.KeyTab
 	case "backspace":
 		return tea.KeyBackspace
+	case "left":
+		return tea.KeyLeft
+	case "right":
+		return tea.KeyRight
+	case "up":
+		return tea.KeyUp
+	case "down":
+		return tea.KeyDown
 	}
 	return 0
 }
@@ -218,8 +226,8 @@ func TestPanningDoesNotChangeSelection(t *testing.T) {
 	m := sized(t, 100, 30)
 	before := m.selected
 	x, y := m.cam.X, m.cam.Y
-	m = press(t, m, "l")
-	m = press(t, m, "j")
+	m = press(t, m, "right")
+	m = press(t, m, "down")
 	if m.selected != before {
 		t.Error("panning changed the selection")
 	}
@@ -446,7 +454,7 @@ func TestReloadPicksUpChangesAndKeepsThePlace(t *testing.T) {
 	next, _ := m.Update(tea.WindowSizeMsg{Width: 100, Height: 30})
 	m = next.(Model)
 	m.selected = "b"
-	m = press(t, m, "l") // move the camera off centre
+	m = press(t, m, "right") // move the camera off centre
 	camX := m.cam.X
 
 	write("after")

@@ -44,8 +44,8 @@ cnvw --dump 120x40 board.canvas      # render one frame to stdout and exit
 
 | | |
 |---|---|
-| `h j k l`, arrows | pan |
-| `H J K L` | jump to the nearest node that way |
+| arrows | pan |
+| `shift`+arrows | jump to the nearest node that way |
 | `tab` / `shift+tab` | cycle nodes in reading order |
 | `+` / `-` | zoom in / out |
 | `f` | fit the whole canvas |
@@ -57,7 +57,9 @@ cnvw --dump 120x40 board.canvas      # render one frame to stdout and exit
 | `?` / `q` | help / quit |
 
 Click to select, wheel to pan, ctrl+wheel to zoom. The reader scrolls with
-`j` `k`, `space`, `ctrl+d` `ctrl+u` and `g` `G`.
+arrows, `space`, `ctrl+d` `ctrl+u` and `g` `G`.
+
+`H` `J` `K` `L` also jump, for terminals that do not report a shifted arrow.
 
 ## More
 

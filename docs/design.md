@@ -88,7 +88,13 @@ single axis. With two axes and a zoom, distance is covered by zooming out, so
 the paging keys went and the step grew to a quarter of the viewport. Reset-zoom
 went too, since `f` and `z` both land somewhere more useful than an arbitrary
 1.0, and "first/last node" went because reading order is a weak idea on a
-canvas. Every binding left is the only way to reach what it does.
+canvas.
+
+Movement is on the arrows rather than on `hjkl`. A canvas is not text and the
+modal habit buys nothing here, whereas an arrow needs no explaining. The one
+concession is that `H` `J` `K` `L` still jump: a shifted arrow is widely but
+not universally reported, and on a terminal that swallows it the jump would
+otherwise have no key at all. They are a fallback, not the documented path.
 
 ## Not included
 
