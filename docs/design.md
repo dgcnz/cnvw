@@ -82,6 +82,14 @@ internal/mdline/     Markdown to short styled lines
 internal/app/        event loop, keys, search, reader pane
 ```
 
+**There is one way to do each thing.** Panning had three tiers at one point —
+a step, a half screen and a full screen — which are `less` idioms that assume a
+single axis. With two axes and a zoom, distance is covered by zooming out, so
+the paging keys went and the step grew to a quarter of the viewport. Reset-zoom
+went too, since `f` and `z` both land somewhere more useful than an arbitrary
+1.0, and "first/last node" went because reading order is a weak idea on a
+canvas. Every binding left is the only way to reach what it does.
+
 ## Not included
 
 Editing, dragging, resizing, saving, undo, and full Obsidian compatibility.

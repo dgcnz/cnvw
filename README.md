@@ -45,23 +45,19 @@ cnvw --dump 120x40 board.canvas      # render one frame to stdout and exit
 | | |
 |---|---|
 | `h j k l`, arrows | pan |
-| `ctrl+d` / `ctrl+u` | pan half a screen |
-| `ctrl+f` / `ctrl+b` | pan a full screen |
 | `H J K L` | jump to the nearest node that way |
 | `tab` / `shift+tab` | cycle nodes in reading order |
-| `g` / `G` | first / last node |
-| `+` / `-` / `0` | zoom in / out / reset |
+| `+` / `-` | zoom in / out |
 | `f` | fit the whole canvas |
 | `z` | zoom to the selected node |
 | `enter` | open the selected node in the reader |
 | `/`, `n`, `N` | search, next match, previous match |
 | `r` | reload the file from disk |
 | `e` | toggle edge labels |
-| `t` | toggle light and dark |
-| `?` | help |
-| `q` | quit |
+| `?` / `q` | help / quit |
 
-The mouse works too: click to select, wheel to pan, ctrl+wheel to zoom.
+Click to select, wheel to pan, ctrl+wheel to zoom. The reader scrolls with
+`j` `k`, `space`, `ctrl+d` `ctrl+u` and `g` `G`.
 
 ## More
 
